@@ -2,7 +2,11 @@
 
 The key here was finding the menu to enable github pages hosting (somewhat buried in settings). 
 
-From there, setting up deployment so that Github will parse the directory contents as a site can potentially be challenging if you're looking for something more complicated than a static site or something github doesn't have natively built-in. 
+After that, it can be challenging to set up your deployment so that Github will parse the directory contents as a site if you're looking for something more complicated than a static site or something GH doesn't have natively built-in. 
+
+The next logical step here would look into how to get React apps up and running.
+
+---
 
 <div align="center">
 
