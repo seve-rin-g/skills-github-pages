@@ -1,3 +1,8 @@
+# notes # 
+
+The key here was finding the menu to enable github pages hosting (somewhat buried in settings). 
+
+From there, setting up deployment so that Github will parse the directory contents as a site can potentially be challenging if you're looking for something more complicated than a static site or something github doesn't have natively built-in. 
 
 <div align="center">
 
